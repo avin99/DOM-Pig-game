@@ -8,5 +8,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 .
-.
-A fun game that you'll enjoy!
+- A fun game that you'll enjoy!!
